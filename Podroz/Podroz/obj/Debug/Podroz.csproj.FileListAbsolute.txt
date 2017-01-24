@@ -1,0 +1,6 @@
+D:\Kolo\Podroz\Podroz\bin\Debug\Podroz.exe.config
+D:\Kolo\Podroz\Podroz\obj\Debug\Podroz.csprojResolveAssemblyReference.cache
+D:\Kolo\Podroz\Podroz\bin\Debug\Podroz.exe
+D:\Kolo\Podroz\Podroz\bin\Debug\Podroz.pdb
+D:\Kolo\Podroz\Podroz\obj\Debug\Podroz.exe
+D:\Kolo\Podroz\Podroz\obj\Debug\Podroz.pdb
